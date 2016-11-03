@@ -3,7 +3,7 @@ A scrapy spider.
 
 ## 安装
 
-Windows 上安装坑略多，详见 [Scrapy 安装](https://my.oschina.net/lvyi/blog/779541) 博客
+Windows 上安装坑略多，详见 [Scrapy 安装](https://my.oschina.net/lvyi/blog/779541) 
 
 ## 配置代理
 
